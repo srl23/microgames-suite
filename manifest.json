@@ -1,0 +1,10 @@
+{
+	"name": "SRL23's Browser Mini Games",
+	"description": "A browser plugin containing a few small mini games",
+	"version": "0.1",
+	"manifest_version": 1,
+	"background": {
+		"service_worker": "background.js"
+	},
+	"permissions": ["storage"]
+}
