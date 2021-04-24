@@ -4,8 +4,8 @@ let aiHand = 0;			 	 //to
 let aiDice = [0, 0, 0];			 //
 let temp1, temp2, temp3 = 0; //initialize..
 
-let playerTurn = false; //player will go second, but both the AI and the player's dice will be displayed at the same time for now
-let aiTurn = true;
+let playerTurn = true; //player will go second, but both the AI and the player's dice will be displayed at the same time for now
+let aiTurn = false;
 
 let playerWon = false;
 let aiWon = false;
