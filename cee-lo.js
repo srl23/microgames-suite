@@ -1,5 +1,5 @@
 let playerHand = 0;			 //stuff
-let playerDice = [0, 0, 0];		 //
+let playerDice = [0, 0, 0];		 //lets fix how stuff renders shall we?
 let aiHand = 0;			 	 //to
 let aiDice = [0, 0, 0];			 //
 let temp1, temp2, temp3 = 0; //initialize..
