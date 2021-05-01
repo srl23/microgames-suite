@@ -1,6 +1,6 @@
 {
 	"name": "SRL23's Microgame Suite",
-	"description": "A browser plugin containing a few small mini games",
+	"description": "A browser plugin containing some small, classic minigames that one can finish quickly",
 	"version": "0.1",
 	"manifest_version": 3,
 	"background": {
